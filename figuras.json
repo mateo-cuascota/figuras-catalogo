@@ -1,4 +1,5 @@
 [
   { "nombre": "Pentagono", "url": "Pentagono.groovy" },
-  { "nombre": "Hexagono",  "url": "Hexagono.groovy" }
+  { "nombre": "Hexagono",  "url": "Hexagono.groovy" },
+  { "nombre": "Heptagono", "url": "Heptagono.groovy" }
 ]
